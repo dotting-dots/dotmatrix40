@@ -8,6 +8,7 @@
 |--------------------------------|----------------------------------------|
 | dotmatrix40_frontbody.stl      | 手前側の筐体パーツ                       |
 | dotmatrix40_tiltbody_5.stl     | 傾斜用の筐体パーツ (傾斜角5度)            |
+| dotmatrix40_tiltbody_10.stl    | 傾斜用の筐体パーツ (傾斜角10度)           |
 | dotmatrix40_knob_full.stl      | つまみキャップ (フルプロファイル用)      |
 | dotmatrix40_knob_low.stl       | つまみキャップ (ロープロファイル用)      |
 | common_Filament_LED_cage.stl   | フィラメントLED保護ケージ               |
